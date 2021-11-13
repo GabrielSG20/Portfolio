@@ -1,7 +1,7 @@
 <html>
 <body>
   
- <h1 align="center"> Portfólio - API 4º Semestre Banco de Dados</h1>
+ <h1 align="center"> API 4º Semestre Banco de Dados</h1>
   
   <p align="center">
  <a href="#-resumo-do-projeto-clipboard"> Resumo do Projeto</a> •
