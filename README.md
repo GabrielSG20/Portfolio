@@ -71,7 +71,7 @@
   <details>
   <summary>Lógica Arquitetural</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/DiagramaArq.png" width="800px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/DiagramaArq.png" width="500px;" alt=""/>
   </details>
   
   <p align="justify" style="font-family:roboto;"> As Models são representações das tabelas do Banco de Dados Oracle, tendo seus campos e relações mapeadas pelo Hibernate. Resultando em uma melhor validação dos dados e facilitação com consultas, inserções e atualizações na Database.</p>
@@ -132,6 +132,26 @@
   ---
    
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+  <ul>
+  <li>Metodologia Scrum:
+  <ul>
+    <li>Criação do Product Backlog pela metodologia Product Backlog Building (PBB);</li>
+    <li>Quebra das User Stories da Sprint em Tasks objetivas;</li>
+    <li>Organização e acompanhamento constante do desenvolvimento das tarefas pela equipe.</li>   
+    </ul></li>
+  <li>Framework Spring Boot:
+  <ul>
+    <li>Configuração do ambiente;</li> 
+    <li>Arquitetura com Repository, Service, Model e Controller;</li>
+    <li>Desenvolvimento dos Endpoints para chamada do Front-End;</li> 
+    <li>Mapeamento das tabelas e relações da Base de Dados com Hibernate;</li>
+    <li>Conexão com Banco de Dados Oracle hospedado em nuvem no Oracle Cloud, por meio da Wallet.</li>
+    </ul></li>
+  <li>Deploy em Nuvem:
+  <ul>
+    <li>Configuração do código para deploy;</li>
+    <li>Deploy no Heroku, por meio do método Manual usando uma branch do GitHub.</li>   
+    </ul></li>
   
   ---
 
