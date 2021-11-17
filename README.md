@@ -38,47 +38,47 @@
   <ul>
   <li><a href="https://www.java.com/pt_BR/">Java</a>:
   <ul>
-    <li><p align="justify" style="font-family:roboto;"> Java.</p></li>
+    <li><p align="justify" style="font-family:roboto;"> Linguagem de programação utilizada para o desenvolvimento Back-End do sistema, apresenta como principais características: Portabilidade, Robustez, Segurança, Orientação a Objetos, Dinâmica e Alto Desempenho. Foi um requisito técnico solicitado pelo cliente.</p></li>
   </ul></li>
     
   <li><a href="https://spring.io/">Spring Boot</a>:
   <ul>
-    <li><p align="justify" style="font-family:roboto;"> Spring Boot.</p></li>
-  </ul></li>
-
-  <li><a href="https://www.javascript.com/">JavaScript</a>:
-  <ul>
-    <li><p align="justify" style="font-family:roboto;"> JavaScript.</p></li>
+    <li><p align="justify" style="font-family:roboto;"> É um framework open source para Java, aplicado para facilitar a configuração e gerenciamento das dependências do projeto. Logo melhorando a produtividade e agilidade no processo de desenvolvimnto da aplicação.</p></li>
   </ul></li>
     
   <li><a href="https://angular.io/">Angular</a>:
   <ul>
-    <li><p align="justify" style="font-family:roboto;"> Angular.</p></li>
+    <li><p align="justify" style="font-family:roboto;"> O Front-End do projeto foi realizado com Angular, uma plataforma para desenvolvimento de aplicações web com um código open source com base em TypeScript, foi escolhido pela equipe pela possibilidade de criação de páginas dinâmicas e otimização de trabalho com reescrita de código.</p></li>
+  </ul></li>
+    
+  <li><a href="https://miragejs.com/">MirageJS</a>:
+  <ul>
+    <li><p align="justify" style="font-family:roboto;"> É uma biblioteca de simulação de API que permite construir, testar e compartilhar um aplicativo JavaScript funcional completo sem ter que depender de nenhum Back-End. Foi empregado para realização de testes das telas do Front-End, no momento em que não existia conexão com o Back-End.</p></li>
   </ul></li>
       
   <li><a href="https://www.oracle.com/tools/downloads/sqldev-downloads.html">Oracle SQL Developer</a>:
   <ul>
-    <li><p align="justify" style="font-family:roboto;"> Oracle SQL Developer.</p></li>
+    <li><p align="justify" style="font-family:roboto;"> Na parte de armazenamento de dados, foi utilizado o Oracle Database 12c, um SGBD relacional, escolhido por atender todas as necessidades do projeto e ser uma ferramenta da empresa parceira. Para trabalhar com scripts SQL nessa Base de Dados selecionada, usamos o Oracle SQL Developer, um ambiente de desenvolvimento integrado com o Bancos de Dados Oracle.</p></li>
   </ul></li>
         
   <li><a href="https://www.figma.com/">Figma</a>:
   <ul>
-    <li><p align="justify" style="font-family:roboto;"> Figma.</p></li>
+    <li><p align="justify" style="font-family:roboto;"> É uma ferramenta para projetos UI com excelentes recursos de Design, Prototipagem, Colaboração, Plug-in de Sistema de Projeto, entre outros. Foi empregado pela nossa equipe para realização da metodologia Product Backlog Building (PBB) e criação das Wireframes.</p></li>
   </ul></li>
           
   <li><a href="https://vempracasa.atlassian.net/">Jira</a>:
   <ul>
-    <li><p align="justify" style="font-family:roboto;"> Jira.</p></li>
+    <li><p align="justify" style="font-family:roboto;"> Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas.</p></li>
   </ul></li>
        
   <li><a href="https://www.oracle.com/br/cloud/">Oracle Cloud</a>:
   <ul>
-    <li><p align="justify" style="font-family:roboto;"> Oracle Cloud<.</p></li>
+    <li><p align="justify" style="font-family:roboto;"> É um serviço de computação em nuvem oferecido pela Oracle Corporation. Foi usado para o deploy do Back-End e Banco de Dados Oracle do projeto.</p></li>
   </ul></li>
        
   <li><a href="https://www.heroku.com/platform">Heroku</a>:
   <ul>
-    <li><p align="justify" style="font-family:roboto;"> Heroku.</p></li>
+    <li><p align="justify" style="font-family:roboto;"> É uma plataforma em nuvem com um serviço que suporta várias linguagens de programação, nela foi realizado o deploy do Front-End da aplicação.</p></li>
   </ul></li>
   </ul>
   
@@ -111,8 +111,9 @@
    <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/DiagramaArq.png" width="500px;" alt=""/>
   </details>
   
-  <p align="justify" style="font-family:roboto;"> As Models são representações das tabelas do Banco de Dados Oracle, tendo seus campos e relações mapeadas pelo Hibernate. Resultando em uma melhor validação dos dados e facilitação com consultas, inserções e atualizações na Database.</p>
-  <details>
+  <ul>
+  <li> Model: são representações das tabelas do Banco de Dados Oracle, tendo seus campos e relações mapeadas pelo Hibernate. Resultando em uma melhor validação dos dados e facilitação com consultas, inserções e atualizações na Database.
+    <details>
   <summary>Entidade Model</summary>
   <br>
    <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/Model-1.png" width="800px;" alt=""/>
@@ -122,29 +123,34 @@
   <br>
    <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/Model-2.png" width="800px;" alt=""/>
   </details>
-  
-  <p align="justify" style="font-family:roboto;"> Os Repositories são interfaces que tem como função serem camadas de acesso a dados. Eles extendem o JpaRepository, portanto há um melhor e mais fácil acesso aos métodos de manipulação dos dados na Database, sendo inserção (save), consulta (listAll), atualização (save) e deleção (deleteById) os que utilizamos no desenvolvimento. Além de permitirem realizar comandos SQL customizados de acordo com a necessidade da funcionalidade.</p>
+  </li>
+    
+  <li> Repositories: são interfaces que tem como função serem camadas de acesso a dados. Eles extendem o JpaRepository, portanto há um melhor e mais fácil acesso aos métodos de manipulação dos dados na Database, sendo inserção (save), consulta (listAll), atualização (save) e deleção (deleteById) os que utilizamos no desenvolvimento. Além de permitirem realizar comandos SQL customizados de acordo com a necessidade da funcionalidade.
   <details>
   <summary>Repository</summary>
   <br>
    <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/Repository.png" width="800px;" alt=""/>
   </details>
-  
-  <p align="justify" style="font-family:roboto;"> Os Services são classes que concentram os métodos do Repository, visto que tem essa interface injetada com a anotação @Autowired. Sendo adicionados neles a lógica essencial para regra de negócio imposta pelo cliente, como por exemplo o envio de e-mails, além de contribuirem muito para organização dos métodos utilizados pela interface.</p>
+  </li>
+    
+  <li> Services: são classes que concentram os métodos do Repository, visto que tem essa interface injetada com a anotação @Autowired. Sendo adicionados neles a lógica essencial para regra de negócio imposta pelo cliente, como por exemplo o envio de e-mails, além de contribuirem muito para organização dos métodos utilizados pela interface.
   <details>
   <summary>Service</summary>
   <br>
    <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/Service.png" width="800px;" alt=""/>
   </details>
-  
-  <p align="justify" style="font-family:roboto;"> Os Controllers são as classes onde se encontram os Endpoints do Back-End que serão utilizados para interação com o Front-End, isso corre pela chamada de rotas presentes em seus métodos, pela anotação @RequestMapping("/rota-exemplo"). Ademais, contém os Services necessários injetados com a anotação @Autowired e utiliza das chamadas dos métodos dessas classes para realização da lógica desenvolvida.</p>
+  </li>
+    
+  <li> Controllers: são as classes onde se encontram os Endpoints do Back-End que serão utilizados para interação com o Front-End, isso corre pela chamada de rotas presentes em seus métodos, pela anotação @RequestMapping("/rota-exemplo"). Ademais, contém os Services necessários injetados com a anotação @Autowired e utiliza das chamadas dos métodos dessas classes para realização da lógica desenvolvida.
   <details>
   <summary>Controller</summary>
   <br>
    <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/Controller.png" width="800px;" alt=""/>
   </details>
+  </li>
+  </ul>
   
-   <p align="justify" style="font-family:roboto;"> Após explicada a estrura aplicada no projeto, foi necessário realizar uma configuração de Cors, ao passo que verificam a real origem, métodos HTTP e cabeçalhos de uma determinada solicitação enviada para o Back-End. Sendo fundamental para conexão com o Front-End, ao passo que permite que a rota utilizada no Angular consiga fazer requisições e receber suas respostas.</p>
+   <p align="justify" style="font-family:roboto;"> Após explicada a estrura aplicada no projeto, foi necessário realizar uma configuração de Cors, ao passo que verificam a real origem, métodos HTTP e cabeçalhos de uma determinada solicitação enviada para o Back-End. Sendo fundamental para conexão com o Front-End, porque permite que a rota utilizada no Angular consiga fazer requisições e receber suas respostas.</p>
   <details>
   <summary>Configuração dos Cors</summary>
   <br>
