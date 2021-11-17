@@ -35,15 +35,52 @@
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
-  * [Java](https://www.java.com/pt_BR/)
-  * [Spring Boot](https://spring.io/)
-  * [JavaScript](https://www.javascript.com/)
-  * [Angular](https://angular.io/)
-  * [Oracle SQL Developer](https://www.oracle.com/tools/downloads/sqldev-downloads.html)
-  * [Figma](https://www.figma.com/)
-  * [Jira](https://vempracasa.atlassian.net/) 
-  * [Oracle Cloud](https://www.oracle.com/br/cloud/) 
-  * [Heroku](https://www.heroku.com/platform) 
+  <ul>
+  <li><a href="https://www.java.com/pt_BR/">Java</a>:
+  <ul>
+    <li><p align="justify" style="font-family:roboto;"> Java.</p></li>
+  </ul></li>
+    
+  <li><a href="https://spring.io/">Spring Boot</a>:
+  <ul>
+    <li><p align="justify" style="font-family:roboto;"> Spring Boot.</p></li>
+  </ul></li>
+
+  <li><a href="https://www.javascript.com/">JavaScript</a>:
+  <ul>
+    <li><p align="justify" style="font-family:roboto;"> JavaScript.</p></li>
+  </ul></li>
+    
+  <li><a href="https://angular.io/">Angular</a>:
+  <ul>
+    <li><p align="justify" style="font-family:roboto;"> Angular.</p></li>
+  </ul></li>
+      
+  <li><a href="https://www.oracle.com/tools/downloads/sqldev-downloads.html">Oracle SQL Developer</a>:
+  <ul>
+    <li><p align="justify" style="font-family:roboto;"> Oracle SQL Developer.</p></li>
+  </ul></li>
+        
+  <li><a href="https://www.figma.com/">Figma</a>:
+  <ul>
+    <li><p align="justify" style="font-family:roboto;"> Figma.</p></li>
+  </ul></li>
+          
+  <li><a href="https://vempracasa.atlassian.net/">Jira</a>:
+  <ul>
+    <li><p align="justify" style="font-family:roboto;"> Jira.</p></li>
+  </ul></li>
+       
+  <li><a href="https://www.oracle.com/br/cloud/">Oracle Cloud</a>:
+  <ul>
+    <li><p align="justify" style="font-family:roboto;"> Oracle Cloud<.</p></li>
+  </ul></li>
+       
+  <li><a href="https://www.heroku.com/platform">Heroku</a>:
+  <ul>
+    <li><p align="justify" style="font-family:roboto;"> Heroku.</p></li>
+  </ul></li>
+  </ul>
   
   ---
   
@@ -152,8 +189,9 @@
     <li>Configuração do código para deploy;</li>
     <li>Deploy no Heroku, por meio do método Manual usando uma branch do GitHub.</li>   
     </ul></li>
-  
-  ---
+    </ul>
+    
+---
 
 </body>
 </html>
