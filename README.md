@@ -146,7 +146,7 @@
   <details>
   <summary>Padrão de Projeto Proxy</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/Proxy.png" width="800px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/PadraoProxy.png" width="800px;" alt=""/>
   </details>
   
    <p align="justify" style="font-family:roboto;"> Após explicada a estrura empregada no projeto, foi necessário realizar uma configuração de Cors, ao passo que verificam a real origem, métodos HTTP e cabeçalhos de uma determinada solicitação enviada para o Back-End. Sendo fundamental para conexão com o Front-End, porque permite que a rota utilizada no Angular consiga fazer requisições e receber suas respostas.</p>
