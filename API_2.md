@@ -3,9 +3,11 @@
   
   <h1 align="center"> API 2º Semestre - 02/2020</h1>
   
+  <h2> Parceiro Acadêmico: <a href="https://tecsus.com.br/">TecSUS</a></h2>
+  
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> A empresa TecSUS requisitou o desenvolvimento de um software que tem por objetivo facilitar a digitação por parte da sua equipe para as contas de água e luz. O software oferece uma maior facilidade para seus usuários, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores e gerando um relatório sobre o consumo e custos de água e luz de cada cliente. Para mais informações sobre o projeto, acesse: <a href="https://github.com/GabrielSG20/Projeto_Integrador_2-Sem2020">Cadastro de Contas</a>.</p>
+  <p align="justify" style="font-family:roboto;"> A empresa parceira requisitou o desenvolvimento de um software que tem por objetivo facilitar a digitação por parte da sua equipe para as contas de água e luz. O software oferece uma maior facilidade para seus usuários, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores e gerando um relatório sobre o consumo e custos de água e luz de cada cliente. Para mais informações sobre o projeto, acesse: <a href="https://github.com/GabrielSG20/Projeto_Integrador_2-Sem2020">Cadastro de Contas</a>.</p>
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
