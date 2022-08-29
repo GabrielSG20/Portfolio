@@ -19,7 +19,7 @@
   
 ---
 
-<h2> Meus Principais Conhecimentos</h2>
+<h2> Meus Principais Conhecimentos :bar_chart:</h2>
 <ul>
   <li>Linguagens de programação:
   <ul>
