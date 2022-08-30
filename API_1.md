@@ -23,17 +23,14 @@
    
   <ul>
   <li><a href="https://www.java.com/pt_BR/">Java</a>:
-  <ul>
-    <li><p align="justify" style="font-family:roboto;"> Linguagem de programação utilizada para o desenvolvimento Back-End do sistema, apresenta como principais características: Portabilidade, Robustez, Segurança, Orientação a Objetos, Dinâmica e Alto Desempenho. Foi um requisito técnico solicitado pelo cliente.</p></li>
-  </ul></li>
+  <p align="justify" style="font-family:roboto;"> Linguagem de programação utilizada para o desenvolvimento Back-End do sistema, apresenta como principais características: Portabilidade, Robustez, Segurança, Orientação a Objetos, Dinâmica e Alto Desempenho. Foi um requisito técnico solicitado pelo cliente.</p></li>
+  </li>
    <li><a href="https://developer.android.com/studio">Android Studio</a>:
-  <ul>
-    <li><p align="justify" style="font-family:roboto;"> Ambiente de desenvolvimento integrado para elaboração de aplicações Android nativas. Tendo o Java como linguagem back-end e XML para front-end.</p></li>
-  </ul></li>
+    <p align="justify" style="font-family:roboto;"> Ambiente de desenvolvimento integrado para elaboração de aplicações Android nativas. Tendo o Java como linguagem back-end e XML para front-end.</p></li>
+  </li>
   <li><a href="https://trello.com/https://trello.com">Trello</a>:
-  <ul>
-    <li><p align="justify" style="font-family:roboto;"> Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas. </p></li>
-  </ul></li>
+  <p align="justify" style="font-family:roboto;"> Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas. </p></li>
+  </li>
 
   </ul>
   
