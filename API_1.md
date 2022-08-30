@@ -1,6 +1,7 @@
 <html>
 <body>
  <h1 align="center"> API 1º Semestre - 01/2020</h1>
+<a href="https://github.com/Gil-cos/Projeto_Integrador_1-Sem2020"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
  
  <h2> Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a></h2>
   
