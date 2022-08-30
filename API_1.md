@@ -83,6 +83,58 @@
   
   
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+  <h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Metodologia Scrum</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Android Studio</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+     <tr>
+      <td>GIT</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+  </table>
+  
+  <h3 align="center">Soft Skills</h3>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Visão de Negócio</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Planejamento</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+  </table>
+  
   <ul>
   <li>Metodologia Scrum:
   <ul>
