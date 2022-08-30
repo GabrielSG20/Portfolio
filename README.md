@@ -37,6 +37,7 @@
     <li>Organização e acompanhamento constante do desenvolvimento das tarefas pela equipe;</li>
     <li>Utilização das ferramentas <code>Trello</code> e <code>Jira</code>.</li> 
     </ul></li>
+  <br>
   <li> DevOps:
   <ul> 
     <li>Versionamento de código padronizado com Git Workflow;</li>
