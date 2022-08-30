@@ -2,6 +2,7 @@
 <body>
   
  <h1 align="center"> Portfólio API's Banco de Dados - Gabriel Soares Gonçalves</h1>  
+  <h4 align="justify" style="font-family:roboto;"> Trabalho de graduação na modalidade Portfólio das Aprendizagens por Projetos Integradores (API's), necessário como parte dos requisitos para obtenção do título de Tecnólogo em Banco de Dados pela Facudade de Tecnologia de São José dos Campos.</h4>
   
   <h2> Autor :necktie: </h2>
   
