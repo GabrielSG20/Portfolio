@@ -1,6 +1,8 @@
 <html>
 <body>
  <h1 align="center"> API 1º Semestre - 01/2020</h1>
+ 
+ <h2> Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC São José dos Campos - Prof. Jessen Vidal</a></h2>
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
