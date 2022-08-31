@@ -82,6 +82,16 @@
    <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Bertoti/blob/main/TG1/images/recommendMovie.png" width="800px;" alt=""/>
   </details>
   
+  <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
+  
+  <h3 align="center">Gráficos Vendedor</h3>
+
+<div align="center">
+
+![Alt Text](./videos/API1Sem/API1Sem-adicionar_alarme.gif)
+
+</div>
+  
   
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   <h3 align="center"> Hard Skills </h3>
