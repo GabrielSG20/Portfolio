@@ -7,7 +7,7 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> Aplicação Mobile voltada para facilitar o uso de smartphones para usuários da terceira idade. Após o aplicativo ser instalado pelo usuário em seu smartphone, ao clicar em seu ícone será aberta a tela inicial contendo um microfone como botão e um ícone de visualização de lista. Ao clicar no microfone, será gerado a tela de reconhecimento de voz da Google que irá captar o comando falado pelo usuário, acionando uma das funcionalidades. O ícone de visualização de lista, quando clicado, tem a função de mostrar as funcionalidades disponíveis para o usuário por meio de uma nova tela no aplicativo. Para mais informações sobre o projeto, acesse: <a href="https://github.com/Gil-cos/Projeto_Integrador_1-Sem2020">Assistente Virtual</a>.</p>
+  <p align="justify" style="font-family:roboto;"> Aplicação Mobile voltada para facilitar o uso de smartphones para usuários da terceira idade. Após o aplicativo ser instalado pelo usuário em seu smartphone, ao clicar em seu ícone será aberta a tela inicial contendo um microfone como botão e um ícone de visualização de lista. Ao clicar no microfone, será gerado a tela de reconhecimento de voz da Google que irá captar o comando falado pelo usuário, acionando uma das funcionalidades. O ícone de visualização de lista, quando clicado, tem a função de mostrar as funcionalidades disponíveis para o usuário. 
   <p align="justify" style="font-family:roboto;"> As funcionalidades de comando de voz desenvolvidas foram: 
   <ul>
     <li>Abrir câmera para tirar fotos.</li>
