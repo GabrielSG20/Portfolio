@@ -12,7 +12,7 @@
   <ul>
     <li>Abrir câmera para tirar fotos.</li>
     <li>Realizar chamadas para o número de emergência.</li>
-    <li>Configurar conectividade com redes Wi-Fi.</li>
+    <li>Configurar conectividade com redes Wi-fi.</li>
     <li>Adicionar alarmes.</li>
     <li>Abrir o navegador para pesquisas na WEB.</li>
     <li>Adicionar novos contatos.</li>
@@ -83,15 +83,12 @@
   </details>
   
   <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
-  
-  <h3 align="center">Gráficos Vendedor</h3>
 
-<div align="center">
-
+   <div align="center">
+    
 ![Alt Text](./videos/API1Sem/API1Sem-adicionar_alarme.gif)
-
-</div>
-  
+    
+   </div>
   
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   <h3 align="center"> Hard Skills </h3>
@@ -142,7 +139,7 @@
     </tr>
     <tr>
       <td>Planejamento</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★☆☆☆☆☆</td>
     </tr>
   </table>
   
