@@ -85,9 +85,8 @@
   <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
 
    <div align="center">
-    
-![Alt Text](./videos/API1Sem/API1Sem-adicionar_alarme.gif)
-    
+     <video src="https://user-images.githubusercontent.com/61523979/187800071-adff2855-2267-402d-800f-6d8f18667d1f.mp4" controls="controls" style="max-rate: 730px;">
+     </video>    
    </div>
   
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
