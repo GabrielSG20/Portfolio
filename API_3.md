@@ -2,34 +2,31 @@
 <body>
     
   <h1 align="center"> API 3º Semestre - 01/2021</h1>
+    <a href="https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+
+  <h2> Parceiro Acadêmico: <a href="https://embraer.com/">Embraer</a></h2>
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> Para otimizar a criação e melhorar o controle na documentação de aeronaves, a empresa parceira solicitou a equipe airPLAN o desenvolvimento de uma aplicação que automatize e aperfeiçoe a forma de armazenar e gerar documentos de maneira intuitiva e eficaz. O objetivo é desenvolver uma aplicação que integre três APIs independentes. Além disso, as ferramentas necessitam manter, customizar e versionar partes de arquivos em PDF, utilizando regras de negócio específicas para gerar documentos finais que dispõe as partes selecionadas.Para mais informações sobre o projeto, acesse: <a href="https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021">AirPlan</a>.</p>
+  <p align="justify" style="font-family:roboto;"> Para otimizar a criação e melhorar o controle na documentação de aeronaves, a empresa parceira solicitou a equipe airPLAN o desenvolvimento de uma aplicação que automatize e aperfeiçoe a forma de armazenar e gerar documentos de maneira intuitiva e eficaz. O objetivo é desenvolver uma aplicação que integre três APIs independentes. Além disso, as ferramentas necessitam manter, customizar e versionar partes de arquivos em PDF, utilizando regras de negócio específicas para gerar documentos finais que dispõe as partes selecionadas.</p>
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
   <ul>
   <li><a href="https://www.java.com/pt_BR/">Java</a>:
-  <ul>
-    <li><p align="justify" style="font-family:roboto;"> Linguagem de programação utilizada para o desenvolvimento Back-End do sistema, apresenta como principais características: Portabilidade, Robustez, Segurança, Orientação a Objetos, Dinâmica e Alto Desempenho. Foi um requisito técnico solicitado pelo cliente.</p></li>
-  </ul></li>
+    <p align="justify" style="font-family:roboto;"> Linguagem de programação utilizada para o desenvolvimento Back-End do sistema, apresenta como principais características: Portabilidade, Robustez, Segurança, Orientação a Objetos, Dinâmica e Alto Desempenho. Foi um requisito técnico solicitado pelo cliente.</p></li>
+
   <li><a href="https://spring.io/">Spring Boot</a>:
-  <ul>
-    <li><p align="justify" style="font-family:roboto;"> É um framework open source para Java, aplicado para facilitar a configuração e gerenciamento das dependências do projeto. Logo melhorando a produtividade e agilidade no processo de desenvolvimnto da aplicação.</p></li>
-  </ul></li>
+    <p align="justify" style="font-family:roboto;"> É um framework open source para Java, aplicado para facilitar a configuração e gerenciamento das dependências do projeto. Logo melhorando a produtividade e agilidade no processo de desenvolvimnto da aplicação.</p></li>
+
   <li><a href="https://www.thymeleaf.org/">Thymeleaf</a>:
-  <ul>
-    <li><p align="justify" style="font-family:roboto;"> Foi utilizado no desenvolvimento Front-End para comunicação com a API Rest elaborada no Back-End. </p></li>
-  </ul></li>
+    <p align="justify" style="font-family:roboto;"> Foi utilizado no desenvolvimento Front-End para comunicação com a API Rest elaborada no Back-End. </p></li>
+
    <li><a href="https://www.mysql.com/">MySQL</a>:
-  <ul>
-    <li><p align="justify" style="font-family:roboto;"> Sistema de gerenciamento de banco de dados utilizado para criação e manipulação de bases de dados, onde eram armazenadas as informações do software.</p></li>
-  </ul></li>
+    <p align="justify" style="font-family:roboto;"> Sistema de gerenciamento de banco de dados utilizado para criação e manipulação de bases de dados, onde eram armazenadas as informações do software.</p></li>
+
   <li><a href="https://trello.com/https://trello.com">Trello</a>:
-  <ul>
-    <li><p align="justify" style="font-family:roboto;"> Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas. </p></li>
-  </ul></li>
+      <p align="justify" style="font-family:roboto;"> Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas. </p></li>
 
   </ul>
   
@@ -110,22 +107,69 @@
   </details>
   
   
- <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
-  <ul>
-  <li>Metodologia Scrum:
-  <ul>
-    <li>Quebra das User Stories da Sprint em Tasks objetivas;</li>
-    <li>Organização e acompanhamento constante do desenvolvimento das tarefas pela equipe.</li>   
-    </ul></li>
-  <li>Framework Spring Boot:
-  <ul>
-    <li>Configuração do ambiente;</li> 
-    <li>Arquitetura Modelo-Visão-Controle (MVC);</li>
-    <li>Desenvolvimento dos Endpoints para chamada do Front-End;</li> 
-    <li>Mapeamento das tabelas da Base de Dados;</li>
-    <li>Conexão com Banco de Dados Mysql.</li>
-    </ul></li>
-  </ul>
+  <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
+
+   <div align="center">
+     <video src="" controls="controls" style="max-rate: 730px;">
+     </video>    
+   </div>
+  
+  <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
+  <h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Metodologia Scrum - Scrum Master</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Spring Boot</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+     <tr>
+      <td>GIT</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+  </table>
+  
+  <h3 align="center">Soft Skills</h3>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Visão de Negócio</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Planejamento</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+  </table>
 
 </body>
 </html>
