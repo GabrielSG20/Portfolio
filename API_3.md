@@ -127,7 +127,7 @@
     </tr>
     <tr>
       <td>Java</td>
-      <td>★★★★★★★☆☆☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
       <td>Spring Boot</td>
@@ -151,23 +151,23 @@
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
       <td>Visão de Negócio</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
       <td>Organização</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
       <td>Planejamento</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
   </table>
 
