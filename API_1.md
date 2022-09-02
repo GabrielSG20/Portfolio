@@ -89,7 +89,7 @@
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
       <td>Visão de Negócio</td>
@@ -97,15 +97,15 @@
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
       <td>Organização</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
       <td>Planejamento</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>★★★★☆☆☆☆☆☆</td>
     </tr>
   </table>
   
