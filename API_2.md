@@ -14,25 +14,20 @@
    
   <ul>
   <li><a href="https://www.java.com/pt_BR/">Java</a>:
-  <ul>
-    <li><p align="justify" style="font-family:roboto;"> Linguagem de programação utilizada para o desenvolvimento Back-End do sistema, apresenta como principais características: Portabilidade, Robustez, Segurança, Orientação a Objetos, Dinâmica e Alto Desempenho. Foi um requisito técnico solicitado pelo cliente.</p></li>
-  </ul></li>
+      <p align="justify" style="font-family:roboto;"> Linguagem de programação utilizada para o desenvolvimento Back-End do sistema, apresenta como principais características: Portabilidade, Robustez, Segurança, Orientação a Objetos, Dinâmica e Alto Desempenho. Foi um requisito técnico solicitado pelo cliente.</p></li>
+    
   <li><a href="https://openjfx.io/">JavaFX</a>:
-  <ul>
-    <li><p align="justify" style="font-family:roboto;"> Plataforma de software multimídia utilizada para criação de interfaces gráficas, utilizando a linguagem Java. </p></li>
-  </ul></li>
+  <p align="justify" style="font-family:roboto;"> Plataforma de software multimídia utilizada para criação de interfaces gráficas, utilizando a linguagem Java. </p>
+    </li>
+    
    <li><a href="https://www.mysql.com/">MySQL</a>:
-  <ul>
-    <li><p align="justify" style="font-family:roboto;"> Sistema de gerenciamento de banco de dados utilizado para criação e manipulação de bases de dados, onde eram armazenadas as informações do software.</p></li>
-  </ul></li>
+    <p align="justify" style="font-family:roboto;"> Sistema de gerenciamento de banco de dados utilizado para criação e manipulação de bases de dados, onde eram armazenadas as informações do software.</p></li>
+
   <li><a href="https://www.gitpod.io/">Gitpod</a>:
-  <ul>
-    <li><p align="justify" style="font-family:roboto;"> Ambiente de desenvolvimento em nuvem utilizado para elaboração de aplicações Web ou Desktop em diversas linguagens de programação.</p></li>
-  </ul></li>
+    <p align="justify" style="font-family:roboto;"> Ambiente de desenvolvimento em nuvem utilizado para elaboração de aplicações Web ou Desktop em diversas linguagens de programação.</p></li>
+
   <li><a href="https://trello.com/https://trello.com">Trello</a>:
-  <ul>
-    <li><p align="justify" style="font-family:roboto;"> Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas. </p></li>
-  </ul></li>
+    <p align="justify" style="font-family:roboto;"> Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas. </p></li>
 
   </ul>
   
