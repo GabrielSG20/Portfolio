@@ -142,6 +142,12 @@
    <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Bertoti/blob/main/TG1/images/Jira.png" width="1000px;" alt=""/>
   </details>
   
+   <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
+
+   <div align="center">
+     <video src="https://user-images.githubusercontent.com/61523979/189658833-ef25e07d-417e-4832-8a5b-7613ce5d8853.mp4" controls="controls" style="max-rate: 730px;">
+     </video>    
+   </div>
    
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   
