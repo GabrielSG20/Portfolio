@@ -210,28 +210,6 @@
       <td>★★★★★★★☆☆☆</td>
     </tr>
   </table>
-  
-  <ul>
-  <li>Metodologia Scrum:
-  <ul>
-    <li>Criação do Product Backlog pela metodologia Product Backlog Building (PBB);</li>
-    <li>Quebra das User Stories da Sprint em Tasks objetivas;</li>
-    <li>Organização e acompanhamento constante do desenvolvimento das tarefas pela equipe.</li>   
-    </ul></li>
-  <li>Framework Spring Boot:
-  <ul>
-    <li>Configuração do ambiente;</li> 
-    <li>Arquitetura Modelo-Visão-Controle (MVC);</li>
-    <li>Desenvolvimento dos Endpoints para chamada do Front-End;</li> 
-    <li>Mapeamento das tabelas e relações da Base de Dados com Hibernate;</li>
-    <li>Conexão com Banco de Dados Oracle hospedado em nuvem no Oracle Cloud, por meio da Wallet.</li>
-    </ul></li>
-  <li>Deploy em Nuvem:
-  <ul>
-    <li>Configuração do código para deploy;</li>
-    <li>Deploy no Heroku, por meio do método Manual usando uma branch do GitHub.</li>   
-    </ul></li>
-    </ul>
 
 </body>
 </html>
