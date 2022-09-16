@@ -8,7 +8,7 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> A empresa parceira requisitou o desenvolvimento de um software que tem por objetivo facilitar a digitação por parte da sua equipe para as contas de água e luz. O software oferece uma maior facilidade para seus usuários, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores e gerando um relatório sobre o consumo e custos de água e luz de cada cliente.</p>
+  <p align="justify" style="font-family:roboto;"> A empresa parceira requisitou o desenvolvimento de um software que tem por objetivo facilitar a digitação por parte da sua equipe para as contas de água e luz. O software Desktop oferece uma maior facilidade para seus usuários, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores e gerando um relatório sobre o consumo e custos de água e luz de cada cliente.</p>
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
@@ -34,14 +34,21 @@
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
   <h3> Atribuições como Desenvolvedor Back-end</h3>
-    <p align="justify" style="font-family:roboto;"> Como Desenvolvedor Back-End, participei da. Como demonstrado no tópico de Tecnologias Adotadas, foi utilizado Java para o desenvolvimento Back-End, nesse quesito participei dos seguintes processos: </p>
+    <p align="justify" style="font-family:roboto;"> No projeto Trinity participei da construção da solução como desenvolvedor back-end Java, contribuindo para a criação das funcionalidades utilizadas no front-end. Elaborando os métodos que faziam a captação dos dados na interface gráfica, aplicava as regras de negócio propostas pelo cliente e persistia as informações no Banco de Dados MySQL.</p> 
+  <p align="justify" style="font-family:roboto;">Atuando também no desenvolvimento da conexão com o banco de dados, das classes que representavam os modelos das tabelas do banco de dados e das classes com padrão de projetos DAO, que tem como objetivo trocar informações com o Sistema Gerenciador de Banco de Dados (SGBD) para as operações de CRUD utilizadas.</p>
+  <details>
+  <summary>Clique aqui para visualizar o padrão de projetos DAO</summary>
+  <br>
+   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/API2Sem-DAO.png" width="1000px;" alt=""/>
+  </details>
   
+    <p align="justify" style="font-family:roboto;">Logo, participei dos seguintes processos:</p>
   <ul>
-    <li>Criação e cofiguração do ambiente no Android Studio;</li> 
-    <li>Método para reconhecimento de comandos por voz;</li> 
-    <li>Consumir API https para funcionalidade de recomendação de filmes;</li>
-    <li>Funcionalidade de realizar chamadas de emergência; </li>
-    <li>Funcionalidade de pesquisas na web. </li>
+    <li>Criação e cofiguração do ambiente em nuvem no <a href="https://www.gitpod.io/">Gitpod</a>;</li> 
+    <li>Métodos de captação e processamento dos dados derivados do front-end;</li> 
+    <li>Conexão do back-end com o banco de dados MySQL;</li>
+    <li>Classes representações das tabelas do banco;</li>
+    <li>Classes que realizavam as operações CRUD com o BD, por meio do padrão DAO.</li>
   </ul>
   
   <h3> Atribuições como Scrum Master</h3>
@@ -50,7 +57,7 @@
   <details>
   <summary>Demonstração da Organização de uma Sprint no Trello</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Bertoti/blob/main/TG1/images/TrelloAPI2.png" width="1000px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/TrelloAPI2.png" width="1000px;" alt=""/>
   </details>
   
  <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
