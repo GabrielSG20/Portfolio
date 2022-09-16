@@ -49,14 +49,13 @@
 ---
 
  <h2 align="center"> Meus Projetos :books:</h2>
-  <p align="center">
-   <a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_1.md"> 1º Semestre</a> •
-    <a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_2.md"> 2º Semestre</a></a> •
-    <a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_3.md"> 3º Semestre</a></a> •
-   <a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_4.md"> 4º Semestre</a> •
-   <a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_5.md"> 5º Semestre</a></a> •
-   <a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_6.md"> 6º Semestre</a></a>
-  </p>
+ 
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_1.md"> 1º Semestre: Assistente Virtual para Idosos - O app que facilita o uso de smartphones para usuários da terceira idade</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_2.md"> 2º Semestre: Trinity - Cadastro e análise de contas com mais simplicidade</a></a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_3.md"> 3° Semestre: AirPLAN - O software que otimiza a criação e controle de documentos de aeronaves</a></a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_4.md"> 4° Semestre: #VEMPRACASA - Uma plataforma de gerenciamento de eventos</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_5.md"> 5º Semestre</a></a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_6.md"> 6º Semestre</a></a></li></p>
 
 </body>
 </html>
