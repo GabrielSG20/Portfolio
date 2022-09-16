@@ -42,7 +42,8 @@
    <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/API2Sem-DAO.png" width="1000px;" alt=""/>
   </details>
   
-    <p align="justify" style="font-family:roboto;">Logo, participei dos seguintes processos:</p>
+  <p align="justify" style="font-family:roboto;">Logo, participei dos seguintes processos:</p>
+  
   <ul>
     <li>Criação e cofiguração do ambiente em nuvem no <a href="https://www.gitpod.io/">Gitpod</a>;</li> 
     <li>Métodos de captação e processamento dos dados derivados do front-end;</li> 
@@ -55,7 +56,7 @@
   <p align="justify" style="font-family:roboto;"> As atribuições como Scrum Master da equipe são pertinentes a realizar um bom planejamento e organização das ações do grupo no decorrer das Sprints. No início do projeto foi realizada uma reunião para definir nosso principal meio de comunicação e a ferramenta para monitoramento de tarefas, assim decidimos utilizar, respectivamente, o Discord e o Trello. Como Master da equipe, fiquei responsável por acompanhar e analizar o progresso do grupo nesses softwares, de modo a observar se todos os integrantes estavam participando das Weekly Meatings e se apresentavam alguma dificuldade com a evolução das tarefas, logo atuando da melhor maneira de acordo com a situação.</p>
   
   <details>
-  <summary>Demonstração da Organização de uma Sprint no Trello</summary>
+  <summary>Clique aqui para visualizar a organização de uma Sprint no Trello</summary>
   <br>
    <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/TrelloAPI2.png" width="1000px;" alt=""/>
   </details>
