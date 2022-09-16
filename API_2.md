@@ -39,7 +39,7 @@
   <details>
   <summary>Clique aqui para visualizar o padrão de projetos DAO</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/API2Sem-DAO.png" width="1000px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/API2Sem-DAO.png" width="200px;" alt=""/>
   </details>
   
   <p align="justify" style="font-family:roboto;">Logo, participei dos seguintes processos:</p>
