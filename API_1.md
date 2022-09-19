@@ -42,7 +42,7 @@
   <p align="justify" style="font-family:roboto;"> Como Desenvolvedor Back-End, as atribuições foram relacionadas com a elaboração da lógica do sistema planejado, tendo em vista as regras de negócio proporcionadas pela problemática. Criando os métodos que serão chamados pelo Front-End, obtendo uma solução completa com todas as funcionalidades necessárias. Como demonstrado no tópico de Tecnologias Adotadas, foi utilizado Java para o desenvolvimento Back-End, nesse quesito participei dos seguintes processos: </p>
   
   <ul>
-    <li>Criação e cofiguração do ambiente no Android Studio;</li> 
+    <li>Criação e configuração do ambiente no Android Studio;</li> 
     <li>Método para reconhecimento de comandos por voz;</li> 
     <li>Consumir API https para funcionalidade de recomendação de filmes;</li>
     <li>Funcionalidade de realizar chamadas de emergência; </li>
