@@ -2,7 +2,7 @@
 <body>
   
  <h1 align="center"> Portfólio API's Banco de Dados - Gabriel Soares Gonçalves</h1>  
-  <h4 align="justify" style="font-family:roboto;"> Trabalho de graduação na modalidade Portfólio dos projetos realizados utilizando a metodologia Aprendizagem por Projetos Integrados (API's), necessário como parte dos requisitos para obtenção do título de Tecnólogo em Banco de Dados pela Faculdade de Tecnologia de São José dos Campos.</h4>
+  <h4 align="justify" style="font-family:roboto;"> Trabalho de graduação na modalidade Portfólio dos projetos realizados utilizando a metodologia Aprendizagem por Projetos Integrados (API), necessário como parte dos requisitos para obtenção do título de Tecnólogo em Banco de Dados pela Faculdade de Tecnologia de São José dos Campos.</h4>
   
   <h2> Autor :necktie: </h2>
   
@@ -25,15 +25,15 @@
 <ul>
   <li>Linguagens de programação:
   <ul>
-    <li> <code>Java</code> na criação de API's (Application Programming Interface) Rest utilizando o Framework <code>SpringBoot</code>;</li>
-    <li> <code>Python</code> para automatização de processos;</li>
-    <li> <code>SQL</code> para modelagem, criação e manipulação de Banco de Dados <code>Oracle</code>, <code>MySQL</code> e <code>SQL Server</code>.</li>
+    <li><code>Java</code> na criação de API's (Application Programming Interface) Rest utilizando o Framework <code>SpringBoot</code>;</li>
+    <li><code>Python</code> para automatização de processos;</li>
+    <li><code>SQL</code> para modelagem, criação e manipulação de Banco de Dados <code>Oracle</code>, <code>MySQL</code> e <code>SQL Server</code>.</li>
     </ul></li>
   <br>
   <li> Metodologia Ágil (Scrum) - Scrum Master:
   <ul> 
     <li>Criação do Product Backlog pela metodologia Product Backlog Building (PBB);</li>
-    <li> Quebra das User Stories da Sprint em Tasks objetivas;</li>
+    <li>Quebra das User Stories da Sprint em Tasks objetivas;</li>
     <li>Organização e acompanhamento constante do desenvolvimento das tarefas pela equipe;</li>
     <li>Utilização das ferramentas <code>Trello</code> e <code>Jira</code>.</li> 
     </ul></li>
