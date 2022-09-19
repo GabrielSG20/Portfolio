@@ -8,7 +8,7 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> A empresa parceira requisitou o desenvolvimento de um software que tem por objetivo facilitar a digitação por parte da sua equipe para as contas de água e luz. O software Desktop oferece uma maior facilidade para seus usuários, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores e gerando um relatório sobre o consumo e custos de água e luz de cada cliente.</p>
+  <p align="justify" style="font-family:roboto;"> A equipe Trinity foi solicitada pela empresa parceira para o desenvolvimento de um software que tem por objetivo facilitar a digitação de contas de água e luz por parte da equipe do cliente. O software Desktop oferece uma maior facilidade para seus usuários, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores. Também é possível gerar relatórios sobre os consumos e custos de água e luz de cada cliente.</p>
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
@@ -45,15 +45,15 @@
   <p align="justify" style="font-family:roboto;">Logo, participei dos seguintes processos:</p>
   
   <ul>
-    <li>Criação e cofiguração do ambiente em nuvem no <a href="https://www.gitpod.io/">Gitpod</a>;</li> 
+    <li>Criação e configuração do ambiente em nuvem no <a href="https://www.gitpod.io/">Gitpod</a>;</li> 
     <li>Métodos de captação e processamento dos dados derivados do front-end;</li> 
     <li>Conexão do back-end com o banco de dados MySQL;</li>
-    <li>Classes representações das tabelas do banco;</li>
-    <li>Classes que realizavam as operações CRUD com o BD, por meio do padrão DAO.</li>
+    <li>Mapeamento das tabelas do banco em classes;</li>
+    <li>Criação das classes para operações CRUD com o BD, por meio do padrão DAO.</li>
   </ul>
   
   <h3> Atribuições como Scrum Master</h3>
-  <p align="justify" style="font-family:roboto;"> As atribuições como Scrum Master da equipe são pertinentes a realizar um bom planejamento e organização das ações do grupo no decorrer das Sprints. No início do projeto foi realizada uma reunião para definir nosso principal meio de comunicação e a ferramenta para monitoramento de tarefas, assim decidimos utilizar, respectivamente, o Discord e o Trello. Como Master da equipe, fiquei responsável por acompanhar e analizar o progresso do grupo nesses softwares, de modo a observar se todos os integrantes estavam participando das Weekly Meatings e se apresentavam alguma dificuldade com a evolução das tarefas, logo atuando da melhor maneira de acordo com a situação.</p>
+  <p align="justify" style="font-family:roboto;"> As atribuições como Scrum Master da equipe foram pertinentes a realizar um bom planejamento e organização das ações do grupo no decorrer das Sprints. No início do projeto foi realizada uma reunião para definir nosso principal meio de comunicação e a ferramenta para monitoramento de tarefas, assim decidimos utilizar, respectivamente, o Discord e o Trello. Como Master da equipe, fiquei responsável por acompanhar e analisar o progresso do grupo nesses softwares, de modo a observar se todos os integrantes estavam participando das reuniões semanais e se apresentavam alguma dificuldade com a evolução das tarefas, logo atuando da melhor maneira de acordo com a situação.</p>
   
   <details>
   <summary>Clique aqui para visualizar a organização de uma Sprint no Trello</summary>
