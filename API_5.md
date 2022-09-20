@@ -8,7 +8,7 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> :chart_with_upwards_trend: O Projeto é uma parceria entre a <a href="https://www.spcbrasil.org.br/">SPC Brasil</a> e a FATEC São José dos Campos com a finalidade de desenvolvimento de um Data Warehouse que centralize os dados da empresa e possibilite o uso destes em reports e modelos com o objetivo de prospectar novos clientes e aumentar as vendas e o consumo dos produtos SPC por meio de análise de inteligencia de negócio.</p>
+  <p align="justify" style="font-family:roboto;"> :chart_with_upwards_trend: O Projeto é uma parceria entre a <a href="https://www.spcbrasil.org.br/">SPC Brasil</a> e a FATEC São José dos Campos com a finalidade de desenvolvimento de um Data Warehouse que centralize os dados da empresa e possibilite o uso destes em reports e modelos com o objetivo de prospectar novos clientes e aumentar as vendas e o consumo dos produtos SPC por meio de análise de inteligência de negócio.</p>
  
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
@@ -21,7 +21,7 @@
     <p align="justify" style="font-family:roboto;"> É um framework open source para Java, aplicado para facilitar a configuração e gerenciamento das dependências do projeto. Logo melhorando a produtividade e agilidade no processo de desenvolvimnto da aplicação.</p></li>
     
   <li><a href="https://vuejs.org/">VueJS</a>:
-    <p align="justify" style="font-family:roboto;"> O Front-End do projeto foi realizado com VueJS, uma framework para desenvolvimento de aplicações web com um código open source com base em TypeScript, foi escolhido pela equipe pela possibilidade de criação de páginas dinâmicas e otimização de trabalho com reescrita de código.</p></li>
+    <p align="justify" style="font-family:roboto;"> O Front-End do projeto foi realizado com VueJS, uma framework para desenvolvimento de aplicações web com um código open source, foi escolhido pela equipe pela possibilidade de criação de páginas dinâmicas e otimização de trabalho com reescrita de código.</p></li>
         
   <li><a href="https://www.figma.com/">Figma</a>:
   <p align="justify" style="font-family:roboto;"> É uma ferramenta para projetos UI com excelentes recursos de Design, Prototipagem, Colaboração, Plug-in de Sistema de Projeto, entre outros. Foi empregado pela nossa equipe para realização da metodologia Product Backlog Building (PBB) e criação das Wireframes.</p></li>
@@ -177,7 +177,7 @@
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_2.md"> 2º Semestre: Trinity - Cadastro e análise de contas com mais simplicidade</a></a></li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_3.md"> 3° Semestre: AirPLAN - O software que otimiza a criação e controle de documentos de aeronaves</a></a></li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_4.md"> 4° Semestre: #VEMPRACASA - Uma plataforma de gerenciamento de eventos</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li>5º Semestre: Data Rangers - Ferramenta para análise de dados</li></p>
+   <p align="justify" style="font-family:roboto;"><li>5º Semestre: Data Rangers - Ferramenta de análise de dados para prospecção de novos clientes</li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_6.md"> 6º Semestre</a></a></li></p>
     <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/README.md"> Voltar para página inicial</a></a></li></p>
 
