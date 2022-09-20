@@ -22,27 +22,21 @@
     
   <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">Microsoft SQL Server</a>:
    <p align="justify" style="font-family:roboto;"> </p></li>
-  </ul>
   
   <li><a href="https://circleci.com/">CircleCI</a>:
    <p align="justify" style="font-family:roboto;"> </p></li>
-  </ul>
   
   <li><a href="https://powerbi.microsoft.com/pt-br/">Power BI</a>:
    <p align="justify" style="font-family:roboto;"> </p></li>
-  </ul>
   
   <li><a href="https://azure.microsoft.com/pt-br/services/sql-database/campaign/#overview">Microsoft Azure</a>:
    <p align="justify" style="font-family:roboto;"> </p></li>
-  </ul>
   
   <li><a href="https://vertabelo.com/">Vertabelo</a>:
    <p align="justify" style="font-family:roboto;"> </p></li>
-  </ul>
   
   <li><a href="https://learn.microsoft.com/pt-br/sql/integration-services/sql-server-integration-services?view=sql-server-ver15">SQL Server Integration Service</a>:
    <p align="justify" style="font-family:roboto;"> </p></li>
-  </ul>
     
   <li><a href="https://vuejs.org/">Vue.JS</a>:
     <p align="justify" style="font-family:roboto;"> O Front-End do projeto foi realizado com Vue.JS, uma framework para desenvolvimento de aplicações web com um código open source, foi escolhido pela equipe pela possibilidade de criação de páginas dinâmicas e otimização de trabalho com reescrita de código.</p></li>
