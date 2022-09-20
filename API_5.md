@@ -20,8 +20,32 @@
   <li><a href="https://spring.io/">Spring Boot</a>:
     <p align="justify" style="font-family:roboto;"> É um framework open source para Java, aplicado para facilitar a configuração e gerenciamento das dependências do projeto. Logo melhorando a produtividade e agilidade no processo de desenvolvimnto da aplicação.</p></li>
     
-  <li><a href="https://vuejs.org/">VueJS</a>:
-    <p align="justify" style="font-family:roboto;"> O Front-End do projeto foi realizado com VueJS, uma framework para desenvolvimento de aplicações web com um código open source, foi escolhido pela equipe pela possibilidade de criação de páginas dinâmicas e otimização de trabalho com reescrita de código.</p></li>
+  <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">Microsoft SQL Server</a>:
+   <p align="justify" style="font-family:roboto;"> </p></li>
+  </ul>
+  
+  <li><a href="https://circleci.com/">CircleCI</a>:
+   <p align="justify" style="font-family:roboto;"> </p></li>
+  </ul>
+  
+  <li><a href="https://powerbi.microsoft.com/pt-br/">Power BI</a>:
+   <p align="justify" style="font-family:roboto;"> </p></li>
+  </ul>
+  
+  <li><a href="https://azure.microsoft.com/pt-br/services/sql-database/campaign/#overview">Microsoft Azure</a>:
+   <p align="justify" style="font-family:roboto;"> </p></li>
+  </ul>
+  
+  <li><a href="https://vertabelo.com/">Vertabelo</a>:
+   <p align="justify" style="font-family:roboto;"> </p></li>
+  </ul>
+  
+  <li><a href="https://learn.microsoft.com/pt-br/sql/integration-services/sql-server-integration-services?view=sql-server-ver15">SQL Server Integration Service</a>:
+   <p align="justify" style="font-family:roboto;"> </p></li>
+  </ul>
+    
+  <li><a href="https://vuejs.org/">Vue.JS</a>:
+    <p align="justify" style="font-family:roboto;"> O Front-End do projeto foi realizado com Vue.JS, uma framework para desenvolvimento de aplicações web com um código open source, foi escolhido pela equipe pela possibilidade de criação de páginas dinâmicas e otimização de trabalho com reescrita de código.</p></li>
         
   <li><a href="https://www.figma.com/">Figma</a>:
   <p align="justify" style="font-family:roboto;"> É uma ferramenta para projetos UI com excelentes recursos de Design, Prototipagem, Colaboração, Plug-in de Sistema de Projeto, entre outros. Foi empregado pela nossa equipe para realização da metodologia Product Backlog Building (PBB) e criação das Wireframes.</p></li>
@@ -128,8 +152,8 @@
       <td>★★★★★★★★☆☆</td>
     </tr>
     <tr>
-      <td>Oracle</td>
-      <td>★★★★★★★☆☆☆</td>
+      <td>Microsoft SQL Server</td>
+      <td>★★★★★★★★☆☆</td>
     </tr>
     <tr>
       <td>Cloud</td>
@@ -138,6 +162,10 @@
      <tr>
       <td>GIT</td>
       <td>★★★★★★★★★☆</td>
+    </tr>
+    <tr>
+      <td>DevOps</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
   </table>
   
@@ -174,12 +202,12 @@
  <h2 align="center"> Navegação Projetos :link:</h2>
  
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_1.md"> 1º Semestre: Assistente Virtual para Idosos - O app que facilita o uso de smartphones para usuários da terceira idade</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_2.md"> 2º Semestre: Trinity - Cadastro e análise de contas com mais simplicidade</a></a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_3.md"> 3° Semestre: AirPLAN - O software que otimiza a criação e controle de documentos de aeronaves</a></a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_2.md"> 2º Semestre: Trinity - Cadastro e análise de contas com mais simplicidade</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_3.md"> 3° Semestre: AirPLAN - O software que otimiza a criação e controle de documentos de aeronaves</a></li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_4.md"> 4° Semestre: #VEMPRACASA - Uma plataforma de gerenciamento de eventos</a></li></p>
    <p align="justify" style="font-family:roboto;"><li>5º Semestre: Data Rangers - Ferramenta de análise de dados para prospecção de novos clientes</li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_6.md"> 6º Semestre</a></a></li></p>
-    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/README.md"> Voltar para página inicial</a></a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_6.md"> 6º Semestre</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/README.md"> Voltar para página inicial</a></li></p>
 
 </body>
 </html>
