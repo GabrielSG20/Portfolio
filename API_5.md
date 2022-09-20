@@ -8,7 +8,7 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> :chart_with_upwards_trend: O Projeto é uma parceria entre a <a href="https://www.spcbrasil.org.br/">SPC Brasil</a> e a FATEC São José dos Campos com a finalidade de desenvolvimento de um Data Warehouse que centralize os dados da empresa e possibilite o uso destes em reports e modelos com o objetivo de prospectar novos clientes e aumentar as vendas e o consumo dos produtos SPC por meio de análise de inteligência de negócio.</p>
+  <p align="justify" style="font-family:roboto;"> :chart_with_upwards_trend: O Projeto foi uma parceria entre a SPC Brasil e a FATEC São José dos Campos com a finalidade de desenvolvimento de um Data Warehouse que centralize os dados da empresa e possibilite o uso destes em reports e modelos com o objetivo de prospectar novos clientes e aumentar as vendas e o consumo dos produtos SPC por meio de análise de inteligência de negócio.</p>
  
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
@@ -115,15 +115,25 @@
   <details>
   <summary>Clique aqui para visualizar a organização de uma Sprint no Jira</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/Jira.png" width="1000px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/API5SemJira1.png" width="1000px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/API5SemJira2.png" width="1000px;" alt=""/>
   </details>
   
    <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
 
    <div align="center">
-     <video src="https://user-images.githubusercontent.com/61523979/189658833-ef25e07d-417e-4832-8a5b-7613ce5d8853.mp4" controls="controls" style="max-rate: 730px;">
+     <h3 align="center"> Aplicação Web </h3>
+     <video src="https://user-images.githubusercontent.com/61523979/191330258-23a1ef9d-3dce-4f9e-bc2d-ffdb15ee8fda.mp4" controls="controls" style="max-rate: 730px;">
      </video>    
    </div>
+  <br>
+   <div align="center">
+     <h3> Power BI </h3>
+     <video src="https://user-images.githubusercontent.com/61523979/191330330-87136600-ab66-471c-969d-80a07ac70efd.mp4" controls="controls" style="max-rate: 730px;">
+     </video>    
+   </div>
+  
+  
    
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   
