@@ -115,8 +115,8 @@
   <details>
   <summary>Clique aqui para visualizar a organização de uma Sprint no Jira</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/API5SemJira1.png" width="1000px;" alt=""/>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/API5SemJira2.png" width="1000px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/API5Sem-Jira1.png" width="1000px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/API5Sem-Jira2.png" width="1000px;" alt=""/>
   </details>
   
    <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
