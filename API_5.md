@@ -21,22 +21,22 @@
     <p align="justify" style="font-family:roboto;"> É um framework open source para Java, aplicado para facilitar a configuração e gerenciamento das dependências do projeto. Logo melhorando a produtividade e agilidade no processo de desenvolvimnto da aplicação.</p></li>
     
   <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">Microsoft SQL Server</a>:
-   <p align="justify" style="font-family:roboto;"> </p></li>
+   <p align="justify" style="font-family:roboto;"> O Microsoft SQL Server é um sistema gerenciador de Banco de dados relacional, utilizado para armazenamento das informações obtidas pelo sistema.</p></li>
   
   <li><a href="https://circleci.com/">CircleCI</a>:
-   <p align="justify" style="font-family:roboto;"> </p></li>
+   <p align="justify" style="font-family:roboto;"> É uma plataforma de entrega contínua e integração contínua, que pode ser usada para implementar práticas de DevOps. Foi empregado para controle da qualidade do desenvolvimento do software e controle automatizado das pipelines.</p></li>
   
   <li><a href="https://powerbi.microsoft.com/pt-br/">Power BI</a>:
-   <p align="justify" style="font-family:roboto;"> </p></li>
+   <p align="justify" style="font-family:roboto;"> O Microsoft Power BI é um serviço de análise de negócios e análise de dados. Utilizado no projeto para criação de telas que permitem a visualização dos dados, demonstrando as informações em forma gráfica.</p></li>
   
   <li><a href="https://azure.microsoft.com/pt-br/services/sql-database/campaign/#overview">Microsoft Azure</a>:
-   <p align="justify" style="font-family:roboto;"> </p></li>
+   <p align="justify" style="font-family:roboto;"> É uma plataforma destinada à execução de aplicativos e serviços, baseada nos conceitos da computação em nuvem. Foi utilizado para deploy do banco de dados SQL Server.</p></li>
   
   <li><a href="https://vertabelo.com/">Vertabelo</a>:
-   <p align="justify" style="font-family:roboto;"> </p></li>
+   <p align="justify" style="font-family:roboto;"> Ferramenta empregada para modelagem e documentação do banco de dado SQL Server.</p></li>
   
   <li><a href="https://learn.microsoft.com/pt-br/sql/integration-services/sql-server-integration-services?view=sql-server-ver15">SQL Server Integration Service</a>:
-   <p align="justify" style="font-family:roboto;"> </p></li>
+   <p align="justify" style="font-family:roboto;"> É um componente do software de banco de dados Microsoft SQL Server que pode ser usado para executar uma ampla variedade de tarefas de migração de dados. No projeto foi utilizado como ETL (Extract, Transform, Load) do banco de dados relacional para o Data Warehouse.</p></li>
     
   <li><a href="https://vuejs.org/">Vue.JS</a>:
     <p align="justify" style="font-family:roboto;"> O Front-End do projeto foi realizado com Vue.JS, uma framework para desenvolvimento de aplicações web com um código open source, foi escolhido pela equipe pela possibilidade de criação de páginas dinâmicas e otimização de trabalho com reescrita de código.</p></li>
