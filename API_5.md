@@ -21,7 +21,7 @@
     <p align="justify" style="font-family:roboto;"> É um framework open source para Java, aplicado para facilitar a configuração e gerenciamento das dependências do projeto. Logo melhorando a produtividade e agilidade no processo de desenvolvimnto da aplicação.</p></li>
     
   <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">Microsoft SQL Server</a>:
-   <p align="justify" style="font-family:roboto;"> O Microsoft SQL Server é um sistema gerenciador de Banco de dados relacional, utilizado para armazenamento das informações obtidas pelo sistema.</p></li>
+   <p align="justify" style="font-family:roboto;"> O Microsoft SQL Server é um sistema gerenciador de banco de dados relacional, utilizado para gerenciar o banco de dados que armazena as informações obtidas pelo sistema.</p></li>
   
   <li><a href="https://circleci.com/">CircleCI</a>:
    <p align="justify" style="font-family:roboto;"> É uma plataforma de entrega contínua e integração contínua, que pode ser usada para implementar práticas de DevOps. Foi empregado para controle da qualidade do desenvolvimento do software e controle automatizado das pipelines.</p></li>
@@ -57,7 +57,7 @@
    <h3> Atribuições como Desenvolvedor Back-end</h3>
   <p align="justify" style="font-family:roboto;"> Como Desenvolvedor Back-End, as atribuições foram relacionadas com a elaboração da lógica do sistema web planejado, tendo em vista as regras de negócio propostas pelo cliente. Com a criação dos Endpoints utilizados na interação com o Front-End, foi obtida uma solução completa com todas as funcionalidades necessárias.</p>
   
-  <p align="justify" style="font-family:roboto;"> O primeiro passo foi a configuração do ambiente Java, para qual, foi utilizado o <a href="https://start.spring.io/">Sprint Initializr</a> para estruturar o projeto com Spring Boot 2.5.4, Java 8 e Maven. Logo, adicionamos todas as dependências necessárias no arquivo POM.xml, sendo as mais importantes: o driver de conexão com o Banco de Dados Oracle (ojdbc8), o JPA (spring-boot-starter-data-jpa) e o Spring Boot Starter Web (spring-boot-starter-web).</p>
+  <p align="justify" style="font-family:roboto;"> O primeiro passo foi a configuração do ambiente Java, para qual, foi utilizado o <a href="https://start.spring.io/">Sprint Initializr</a> para estruturar o projeto com Spring Boot 2.5.10, Java 11 e Maven. Logo, adicionamos todas as dependências necessárias no arquivo POM.xml, sendo as mais importantes: o driver de conexão com o Banco de Dados SQL Server (mssql-jdbc), o JPA (spring-boot-starter-data-jpa) e o Spring Boot Starter Web (spring-boot-starter-web).</p>
   
   <p align="justify" style="font-family:roboto;"> Com isso finalizado e versionado no GitHub, focamos em decidir a Arquitetura e padrões de projetos que implementaríamos. Logo, optamos pela arquitetura Modelo-Visão-Controle (MVC), em que separamos o sistema em componentes interligados que são essenciais para uma melhora na conexão entre as camadas de dados, lógica de negócio e iteração com o usuário.</p>
   <details>
@@ -67,7 +67,7 @@
   </details>
   
   <ul>
-  <li> <p align="justify" style="font-family:roboto;">Model: são representações das tabelas do Banco de Dados Oracle, tendo seus campos e relações mapeadas pelo Hibernate. Resultando em uma melhor validação dos dados e facilitação com consultas, inserções e atualizações na Database;</p>
+  <li> <p align="justify" style="font-family:roboto;">Model: são representações das tabelas do Banco de Dados SQL Server, tendo seus campos e relações mapeadas pelo Hibernate. Resultando em uma melhor validação dos dados e facilitação com consultas, inserções e atualizações na Database;</p>
   </li>
     
   <li> <p align="justify" style="font-family:roboto;">Repositories: são interfaces que tem como função serem camadas de acesso a dados. Eles extendem o JpaRepository, portanto há um melhor e mais fácil acesso aos métodos de manipulação dos dados na Database, sendo inserção (save), consulta (listAll), atualização (save) e deleção (deleteById) os que utilizamos no desenvolvimento. Além de permitirem realizar comandos SQL customizados de acordo com a necessidade da funcionalidade;</p>
@@ -87,12 +87,8 @@
    <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/PadraoProxy.png" width="800px;" alt=""/>
   </details>
   
-  <p align="justify" style="font-family:roboto;"> Por fim, colaborei com o deploy do Front-End no Heroku, por meio do método manual usando uma branch do GitHub do projeto. Com isso o sistema ficou 100% hospedado em nuvem e disponível pelo seguinte link: <a href="http://vempracasa.herokuapp.com/">#VEMPRACASA</a></p>
-  <details>
-  <summary>Clique aqui para visualizar o deploy no Heroku</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/Heroku.png" width="1000px;" alt=""/>
-  </details>
+  <h3>DevOps</h3>
+    <p align="justify" style="font-family:roboto;"> DevOps é uma metodologia de desenvolvimento de software que utiliza a comunicação para integrar desenvolvedores (dev) de software e profissionais de infraestrutura (ops) de TI. O DevOps é uma metodologia que visa a integração entre os setores de desenvolvimento e operações. O objetivo é agilizar e otimizar a criação e o gerenciamento da estrutura das aplicações. A metodologia DevOps é uma abordagem de cultura, automação e design de plataforma que tem como objetivo agregar mais valor aos negócios e aumentar sua capacidade de resposta às mudanças por meio de entregas de serviços rápidas e de alta qualidade. Na prática, seu trabalho está envolvido no ciclo de planejamento, desenvolvimento, automação e serviço. Portanto, envolve todas as etapas até chegar ao resultado final.</p>
   
   <h3> Atribuições como Scrum Master</h3>
   <p align="justify" style="font-family:roboto;"> As atribuições como Scrum Master da equipe foram pertinentes a realizar um bom planejamento e organização das ações do grupo no decorrer das Sprints. No início do projeto, foi realizada uma reunião para definir nosso principal meio de comunicação e a ferramenta para monitoramento de tarefas, assim decidimos utilizar, respectivamente, o Discord e o Jira. Como Master da equipe, fiquei responsável por acompanhar e analisar o progresso do grupo nesses softwares, de modo a observar se todos os integrantes estavam participando das reuniões semanais e se apresentavam alguma dificuldade com a evolução das tarefas, logo atuando da melhor maneira de acordo com a situação.</p>
