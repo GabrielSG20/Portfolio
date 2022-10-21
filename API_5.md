@@ -88,7 +88,14 @@
   </details>
   
   <h3>DevOps</h3>
-    <p align="justify" style="font-family:roboto;"> DevOps é uma metodologia de desenvolvimento de software que utiliza a comunicação para integrar desenvolvedores (dev) de software e profissionais de infraestrutura (ops) de TI. O DevOps é uma metodologia que visa a integração entre os setores de desenvolvimento e operações. O objetivo é agilizar e otimizar a criação e o gerenciamento da estrutura das aplicações. A metodologia DevOps é uma abordagem de cultura, automação e design de plataforma que tem como objetivo agregar mais valor aos negócios e aumentar sua capacidade de resposta às mudanças por meio de entregas de serviços rápidas e de alta qualidade. Na prática, seu trabalho está envolvido no ciclo de planejamento, desenvolvimento, automação e serviço. Portanto, envolve todas as etapas até chegar ao resultado final.</p>
+    <p align="justify" style="font-family:roboto;"> O DevOps é uma metodologia de desenvolvimento de software que utiliza a comunicação para integrar desenvolvedores de software e profissionais de infraestrutura de TI, realizando a integração entre os setores de desenvolvimento e operações. O objetivo é agilizar e otimizar a criação e o gerenciamento da estrutura das aplicações. Tem uma abordagem de cultura, automação e design de plataforma que tem como objetivo agregar mais valor aos negócios e aumentar sua capacidade de resposta às mudanças, por meio de entregas de serviços rápidas e de alta qualidade. Na prática, seu trabalho está envolvido no ciclo de planejamento, desenvolvimento, automação e serviço. Portanto, envolve todas as etapas até chegar ao resultado final.</p>
+  <details>
+     <summary>Clique aqui para visualizar as etapas do DevOps</summary>
+     <br>
+     <img style="border-radius: 50%; align: center" src="https://github.com/API5Sem22/API5Doc/blob/main/DevOps/images/dev.png" width="400px;" alt=""/>
+  </details>
+  
+     <p align="justify" style="font-family:roboto;"> A primeira pr </p>
   
   <h3> Atribuições como Scrum Master</h3>
   <p align="justify" style="font-family:roboto;"> As atribuições como Scrum Master da equipe foram pertinentes a realizar um bom planejamento e organização das ações do grupo no decorrer das Sprints. No início do projeto, foi realizada uma reunião para definir nosso principal meio de comunicação e a ferramenta para monitoramento de tarefas, assim decidimos utilizar, respectivamente, o Discord e o Jira. Como Master da equipe, fiquei responsável por acompanhar e analisar o progresso do grupo nesses softwares, de modo a observar se todos os integrantes estavam participando das reuniões semanais e se apresentavam alguma dificuldade com a evolução das tarefas, logo atuando da melhor maneira de acordo com a situação.</p>
