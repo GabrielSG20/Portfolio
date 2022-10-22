@@ -90,12 +90,111 @@
   <h3>DevOps</h3>
     <p align="justify" style="font-family:roboto;"> O DevOps é uma metodologia de desenvolvimento de software que utiliza a comunicação para integrar desenvolvedores de software e profissionais de infraestrutura de TI, realizando a integração entre os setores de desenvolvimento e operações. O objetivo é agilizar e otimizar a criação e o gerenciamento da estrutura das aplicações. Tem uma abordagem de cultura, automação e design de plataforma que tem como objetivo agregar mais valor aos negócios e aumentar sua capacidade de resposta às mudanças, por meio de entregas de serviços rápidas e de alta qualidade. Na prática, seu trabalho está envolvido no ciclo de planejamento, desenvolvimento, automação e serviço. Portanto, envolve todas as etapas até chegar ao resultado final.</p>
   <details>
-     <summary>Clique aqui para visualizar as etapas do DevOps</summary>
+     <summary>Clique aqui para visualizar os processos do DevOps</summary>
      <br>
      <img style="border-radius: 50%; align: center" src="https://github.com/API5Sem22/API5Doc/blob/main/DevOps/images/dev.png" width="400px;" alt=""/>
   </details>
   
-     <p align="justify" style="font-family:roboto;"> A primeira pr </p>
+ <p align="justify" style="font-family:roboto;"> A primeira prática que aplicamos foi um Git Workflow, uma recomendação de como usar o Git e organizar suas branches para realizar um tragalho de maneira consistente e produtiva. A estrutura das branches para versionamento de código foi dividida da seguinte maneira:</p>
+  <ul>
+  <li> <p align="justify" style="font-family:roboto;">main - Concentra o código de produção, só pondendo ter mudanças por pull requests (permissão para alteração) da branch develop.</p>
+  </li>
+    
+  <li> <p align="justify" style="font-family:roboto;">develop - Branch destinada para testes de funcionalidades e da ferramenta como um todo, só pode ter mudanças por meio de pull requests (permissão para alteração) das branches features.</p>
+  </li>
+    
+  <li> <p align="justify" style="font-family:roboto;">features - Branches com objetivo de desenvolvimentos das funcionalidades do software.</p>
+  </li>
+  </ul>
+  
+  <p align="justify" style="font-family:roboto;"> Também foi emprega o CI/CD. CI (integração contínua) é a prática de integrar alterações de código em um repositório várias vezes ao dia. CD é a entrega contínua, ocorrendo desenvolvimento de novas funcionalidades de forma constante e automatizada. O CI/CD foi realizado pela ferramenta <a href="https://circleci.com/">CircleCI</a>, tendo 3 jobs para as branches:</p>
+ 
+   * build-and-test - Realiza o build e testes unitários, rodando apenas nas branches features e develop.
+      <details>
+      <summary>Job Build e Testes unitários</summary>
+   
+      ```yaml
+      build-and-test:
+        docker:
+          - image: cimg/openjdk:11.0
+        steps:
+          - checkout
+          - run:
+              name: Build
+              command: mvn clean package
+          - run:
+              name: Unit Tests
+              command: mvn -Dtest="dw.servico.**" test
+      ```
+      </details>
+
+   * integration-test - Realiza os testes integrados do projeto utilizando Selenium, que testam a aplicação como um todo (Front-end e Back-end), rodando apenas na branch develop.
+      <details>
+      <summary>Job Testes Integrados</summary>
+   
+      ```yaml
+      integration-test:
+        docker:
+          - image: cimg/openjdk:11.0.10-browsers
+        steps:
+          - browser-tools/install-browser-tools
+          - checkout
+          - run:
+              name: Download Selenium
+              command: curl -O http://selenium-release.storage.googleapis.com/3.141/selenium-server-standalone-3.141.59.jar
+          - run:
+              name: Start Selenium Server
+              command: java -jar selenium-server-standalone-3.141.59.jar
+              background: true
+          - run:
+              name: Integration Tests
+              command: mvn -Dtest="dw.integracaoTestes.**" test
+      ```
+      </details>
+
+* build-deploy - Realiza o deploy automático do código Front-end e Back-end para nuvem no Heroku, rodando apenas na branch main.
+      <details>
+      <summary>Job Deploy</summary>
+   
+    ```yaml
+    build-deploy:
+      machine: true
+      steps:
+        - checkout
+        - run:
+            name: Build and push Docker image to Heroku
+            command: |
+              set -x
+              sudo curl https://cli-assets.heroku.com/install.sh | sh
+              HEROKU_API_KEY=${HEROKU_API_KEY} heroku container:login
+              HEROKU_API_KEY=${HEROKU_API_KEY} heroku container:push -a datawarriors-back web
+              HEROKU_API_KEY=${HEROKU_API_KEY} heroku container:release -a datawarriors-back web
+    ```
+     </details>
+  
+ <p align="justify" style="font-family:roboto;"> Ademais, realizamos uma migração do banco de dados SQL Server, utilizando a ferramenta <a href="https://www.liquibase.org/">Liquibase</a>. Essa prática auxilia na manutenção e atualização do banco de dados de maneira simples, apenas criando um novo arquivo de versão.</p>
+ 
+<details>
+  <summary>Dml.sql</summary>
+   
+   ```yaml
+    --liquibase formatted sql
+    --changeset Gabriel Ferraz:1
+
+    insert into Carteira(crt_descricao) values('Junior');
+    insert into Carteira(crt_descricao) values('Pleno');
+    insert into Carteira(crt_descricao) values('Senior');
+    insert into Carteira(crt_descricao) values('Especialista');
+
+    --changeset Gabriel Ferraz:2
+
+    insert into Cargo(car_descricao) values('Vendedor');
+    insert into Cargo(car_descricao) values('Admin');
+    insert into Cargo(car_descricao) values('Analista de negócios');
+  ```
+</details>
+ 
+<p align="justify" style="font-family:roboto;"> Para finalizar, foi implementada a documentação das rotas fornecidades pelo back-end, uma maneira mais eficaz de identificar e testar as funcionalidades desenvolvidas. Foi empregada a ferramenta <a href="https://swagger.io/">Swagger</a> para essa finalidade.</p>
   
   <h3> Atribuições como Scrum Master</h3>
   <p align="justify" style="font-family:roboto;"> As atribuições como Scrum Master da equipe foram pertinentes a realizar um bom planejamento e organização das ações do grupo no decorrer das Sprints. No início do projeto, foi realizada uma reunião para definir nosso principal meio de comunicação e a ferramenta para monitoramento de tarefas, assim decidimos utilizar, respectivamente, o Discord e o Jira. Como Master da equipe, fiquei responsável por acompanhar e analisar o progresso do grupo nesses softwares, de modo a observar se todos os integrantes estavam participando das reuniões semanais e se apresentavam alguma dificuldade com a evolução das tarefas, logo atuando da melhor maneira de acordo com a situação.</p>
