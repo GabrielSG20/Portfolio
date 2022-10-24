@@ -87,7 +87,7 @@
    <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/PadraoProxy.png" width="800px;" alt=""/>
   </details>
   
-  <h3>DevOps</h3>
+  <h3>Atribuições no uso de DevOps</h3>
     <p align="justify" style="font-family:roboto;"> O DevOps é uma metodologia de desenvolvimento de software que utiliza a comunicação para integrar desenvolvedores de software e profissionais de infraestrutura de TI, realizando a integração entre os setores de desenvolvimento e operações. O objetivo é agilizar e otimizar a criação e o gerenciamento da estrutura das aplicações. Tem uma abordagem de cultura, automação e design de plataforma que tem como objetivo agregar mais valor aos negócios e aumentar sua capacidade de resposta às mudanças, por meio de entregas de serviços rápidas e de alta qualidade. Na prática, seu trabalho está envolvido no ciclo de planejamento, desenvolvimento, automação e serviço. Portanto, envolve todas as etapas até chegar ao resultado final.</p>
   <details>
      <summary>Clique aqui para visualizar os processos do DevOps</summary>
