@@ -1,14 +1,14 @@
 <html>
 <body>
   
-  <h1 align="center"> API 6º Semestre - 01/2022</h1>
+  <h1 align="center"> API 6º Semestre - 02/2022</h1>
 <a href="https://github.com/API6Sem22/API6Doc"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
 
   <h2> Parceiro Acadêmico: <a href="https://www.domrock.net/">Dom Rock</a></h2>
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> </p>
+  <p align="justify" style="font-family:roboto;"> :chart_with_upwards_trend: Esse projeto é uma parceria entre a Dom Rock e FATEC São José dos Campos, com objetivo de desenvolver uma ferramenta que permite o armazenamento, organização e visualização dos dados oferecidos por duas fontes distintas. Para que o cliente consiga identificar as inconsistências desses dados e definir o melhor plano de ação para cada situação.</p>
  
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
