@@ -8,14 +8,14 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> :chart_with_upwards_trend: Esse projeto é uma parceria entre a Dom Rock e FATEC São José dos Campos, com objetivo de desenvolver uma ferramenta que permite o armazenamento, organização e visualização dos dados oferecidos por duas fontes distintas. Para que o cliente consiga identificar as inconsistências desses dados e definir o melhor plano de ação para cada situação.</p>
+  <p align="justify" style="font-family:roboto;"> :chart_with_upwards_trend: Esse projeto é uma parceria entre a Dom Rock e FATEC São José dos Campos, com objetivo de desenvolver uma ferramenta que permite o armazenamento, organização e visualização dos dados oferecidos por duas fontes distintas. A equipe D-end ofereceu uma ferramenta capaz de realizar o cruzamento dos dados provenientes de convênios médicos e seus clientes, com o intuito de identificar inconsistências no pagamento das faturas das duas fontes de dados e com isso definir o plano de ação para cada situação encontrada.</p>
  
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
   <ul>
   <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">Microsoft SQL Server</a>:
-   <p align="justify" style="font-family:roboto;"> O Microsoft SQL Server é um sistema gerenciador de banco de dados relacional, utilizado para gerenciar o banco de dados que armazena as informações obtidas pelo sistema.</p></li>
+   <p align="justify" style="font-family:roboto;"> O Microsoft SQL Server é um sistema gerenciador de banco de dados relacional, utilizado para gerenciar o banco de dados que armazena as informações que serão exibidas no PowerBI.</p></li>
   
   <li><a href="https://powerbi.microsoft.com/pt-br/">Power BI</a>:
    <p align="justify" style="font-family:roboto;"> O Microsoft Power BI é um serviço de análise de negócios e análise de dados. Utilizado no projeto para criação de telas que permitem a visualização dos dados, demonstrando as informações em forma gráfica.</p></li>
@@ -31,6 +31,12 @@
           
   <li><a href="https://vempracasa.atlassian.net/">Jira</a>:
   <p align="justify" style="font-family:roboto;"> Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas.</p></li>
+    
+  <li><a href="https://www.python.org/">Python</a>:
+  <p align="justify" style="font-family:roboto;"> É uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi utilizado para codificação de scripts de ETL (Extract, Transform, Load) do sistema, realizando a carga dos dados para o MongoDB e SQL Server.</p></li>
+    
+  <li><a href="https://www.mongodb.com/">MongoDB</a>:
+  <p align="justify" style="font-family:roboto;"> É um software de banco de dados NoSQL orientado a documentos, de código aberto e schema free. Foi utilizado para armazenamento das informações oferecidas pelo cliente, além do tratamento dos dados usando a ferramenta Aggregation Framework.</p></li>
   </ul>
  
   
