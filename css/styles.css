@@ -91,8 +91,12 @@ body {
 
 .fatecLogo {
   float: right;
-  height: 80px;
-  padding-top: 10px;
+  height: 100px;
+  padding-top: 20px;
+}
+
+.logoProjetos {
+  float: right;
 }
 
 hr {
@@ -11335,7 +11339,7 @@ h1, .h1 {
 }
 
 p.lead {
-  font-size: 1.15rem;
+  font-size: 1.55rem;
   font-weight: 400;
 }
 
