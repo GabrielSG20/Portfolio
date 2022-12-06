@@ -7730,11 +7730,11 @@ textarea.form-control-lg {
 .text-primary {
   --bs-text-opacity: 1;
   color: #3CB371 !important;
-  font-size: larger;
+  font-size: 25px;
 }
 
 .table-text {
-  font-size: larger;
+  font-size: 22px;
 }
 
 .text-primary-normal {
