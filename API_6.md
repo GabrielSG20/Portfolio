@@ -60,8 +60,9 @@
   
    <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
 
-  <video src="" controls="controls" style="max-rate: 730px;">
-  </video>    
+   <div align="center">
+     <img src="https://github.com/GabrielSG20/Portfolio/blob/resume/assets/img/6SemSolucao.png" style="max-rate: 730px;"></img>    
+   </div>
    
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   
