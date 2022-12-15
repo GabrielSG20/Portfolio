@@ -126,7 +126,7 @@
     </tr>
     <tr>
       <td>Responsabilidade</td>
-      <td>Precisei assumir novamente o cargo de Scrum Master.</td>
+      <td>Assumi novamente o cargo de Scrum Master.</td>
     </tr>
     <tr>
       <td>Comunicação</td>
@@ -142,7 +142,7 @@
     </tr>
     <tr>
       <td>Resiliência</td>
-      <td>Precisei ser resiliênte para superar alguns problemas internos na equipe e entregar um projeto com valor para o cliente.</td>
+      <td>Precisei ser resiliênte para superar alguns problemas internos na equipe e entregar uma solução com valor para o cliente.</td>
     </tr>
   </table>
     
