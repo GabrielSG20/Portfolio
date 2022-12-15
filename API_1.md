@@ -85,27 +85,19 @@
   <table align="center">
     <tr>
       <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
+      <th width="300px">Descrição</th>
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★★☆☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Visão de Negócio</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>Precisei estudar bastante sobre desenvolvimento mobile.</td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>Precisei me comunicar sobre a evolução das minhas tarefas.</td>
     </tr>
     <tr>
       <td>Organização</td>
-      <td>★★★★★☆☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Planejamento</td>
-      <td>★★★★☆☆☆☆☆☆</td>
+      <td>Precisei organizar a documentação e código no GitHub.</td>
     </tr>
   </table>
   
