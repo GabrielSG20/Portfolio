@@ -101,30 +101,26 @@
   </table>
   
   <h3 align="center">Soft Skills</h3>
-  <table align="center">
+   <table align="center">
     <tr>
       <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
+      <th width="300px">Descrição</th>
     </tr>
     <tr>
-      <td>Proatividade</td>
-      <td>★★★★★★☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Visão de Negócio</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>Responsabilidade</td>
+      <td>Precisei assumir o cargo de Scrum Master pela primeira vez.</td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>Precisei me comunicar com a equipe para saber a evolução das tarefas na SPRINT.</td>
     </tr>
     <tr>
       <td>Organização</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>Precisei organizar a documentação e código no GitHub.</td>
     </tr>
     <tr>
       <td>Planejamento</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>Precisei quebrar as tarefas das SPRINT's, colocando datas limites.</td>
     </tr>
   </table>
   
