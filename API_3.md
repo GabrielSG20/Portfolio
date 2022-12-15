@@ -142,7 +142,7 @@
     </tr>
     <tr>
       <td>Resiliência</td>
-      <td>Precisei ser resiliênte para superar alguns problemas internos na equipe e entregar uma solução com valor para o cliente.</td>
+      <td>Precisei ser resiliente para superar alguns problemas internos na equipe e entregar uma solução com valor para o cliente.</td>
     </tr>
   </table>
     
